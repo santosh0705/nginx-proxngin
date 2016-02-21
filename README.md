@@ -1,2 +1,2 @@
 # nginx-proxngin
-Dynamic reverse proxy and webserver for docker.
+Dynamic reverse proxy and webserver for docker containers.
